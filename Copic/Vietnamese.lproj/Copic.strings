@@ -1,0 +1,29 @@
+/* 
+ Copic.strings
+ 
+ Created by IArrays on 14/08/11.
+ Copyright 2012 IARRAYS. All rights reserved.
+ */
+"Copic" = "Copic"; 
+"Enable Copic" = "Kích hoạt Copic";
+"Global Settings" = "Cài đặt tổng quát";
+"Recents Image" = "Hình ảnh Gần đây";
+"Favorites Image" = "Hình ảnh Yêu thích";
+"Addressbook Image" = "Hình ảnh Danh bạ";
+"Mail Settings" = "Cài đặt E-Mail";
+"These mail settings are applicable to Mail application in iDevice." = "Các cài đặt thư này áp dụng cho các ứng dụng Mail trong iDevice.";
+"Message Settings" = "Cài đặt tin nhắn";
+"These message settings are applicable to SMS application in iDevice." = "Các cài đặt tin nhắn này được áp dụng đối với ứng dụng SMS trong iDevice.";
+"Contact Image" = "Hình ảnh liên lạc";
+"Conversation Images" = "Hình ảnh trò chuyện";
+"Default Avatar" = "Ảnh đại diện m.định";
+"My Avatar" = "Ảnh đại diện của tôi";
+"Restore Avatars" = "Khôi phục ảnh đại diện";
+"Restore Avatar" = "Khôi phục Avatar";
+"This enables Copic for biteSMS and all the above Message Settings are applied to biteSMS." = "Điều này kích hoạt Copic cho biteSMS và tất cả các Cài đặt Tin nhắn ở trên được áp dụng cho biteSMS.";
+"biteSMS" = "biteSMS";
+"Notification Center" = "Trung tâm Thông báo";
+"These settings are applicable to Notification Center (iOS greater than 5.0) in iDevice." = "Những thiết lập có thể được áp dụng cho Trung tâm Thông báo (iOS lớn hơn 5.0) trên iDevice.";
+"Missed Calls" = "Các cuộc gọi nhỡ";
+"Messages" = "Các tin nhắn";
+"Twitter" = "Twitter";

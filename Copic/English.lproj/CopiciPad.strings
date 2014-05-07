@@ -1,0 +1,36 @@
+/* 
+ Copic.strings
+ 
+ Created by IArrays on 14/08/11.
+ Copyright 2012 IARRAYS. All rights reserved.
+ */
+"Copic" = "Copic"; 
+"Enable Copic" = "Enable Copic";
+"Global Settings" = "Global Settings";
+"Recents Image" = "Recents Image";
+"Favorites Image" = "Favorites Image";
+"Addressbook Image" = "Addressbook Image";
+"Mail Settings" = "Mail Settings";
+"These mail settings are applicable to Mail application in iDevice." = "These mail settings are applicable to Mail application in iDevice.";
+"Contact Image" = "Contact Image";
+"Default Avatar" = "Default Avatarr";
+"Restore Avatar" = "Restore Avatar";
+"Message Settings" = "Message Settings";
+"These message settings are applicable to SMS application in iDevice." = "These message settings are applicable to SMS application in iDevice.";
+"Contact Image" = "Contact Image";
+"Conversation Images" = "Conversation Images";
+"Default Avatar" = "Default Avatar";
+"My Avatar" = "My Avatar";
+"Restore Avatar" = "Restore Avatar";
+"This enables Copic for biteSMS and all the above Message Settings are applied to biteSMS." = "This enables Copic for biteSMS and all the above Message Settings are applied to biteSMS.";
+"biteSMS" = "biteSMS";
+"Notification Center" = "Notification Center";
+"These settings are applicable to Notification Center (iOS greater than 5.0) in iDevice." = "These settings are applicable to Notification Center (iOS greater than 5.0) in iDevice.";
+"Missed Calls" = "Missed Calls";
+"Messages" = "Messages";
+"Twitter" = "Twitter";
+
+/******************************
+ IPAD & IPOD RELATED STRINGS.
+ *******************************/
+"Facetime Settings" = "Facetime Settings";

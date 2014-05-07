@@ -1,0 +1,31 @@
+/* 
+ Copic.strings
+ 
+ Created by IArrays on 14/08/11.
+ Copyright 2012 IARRAYS. All rights reserved.
+ */
+"Copic" = "Copic"; 
+"Enable Copic" = "تفعيل Copic";
+"Global Settings" = "إعدادات الجهاز";
+"Recents Image" = "صور آخر المكالمات";
+"Favorites Image" = "صور المفضلة";
+"Addressbook Image" = "صور دليل الهاتف";
+"Message Settings" = "إعدادات الرسائل";
+"These message settings are applicable to SMS application in iDevice." = "هذه الإعدادات تطبق فقط على برنامج الرسائل القصيرة للآيفون.";
+"Contact Image" = "صورة المرسل";
+"Conversation Images" = "صور المحادثات";
+"Default Avatar" = "الصورة الأفتراضية للمرسل";
+"My Avatar" = "صورتي";
+"Restore Avatars" = "بدون صورة";
+"This enables Copic for biteSMS and all the above Message Settings are applied to biteSMS." = "هذا الخيار يفعل Copic في برنامج biteSMS وكل الخيارات السابقة سوف تطبق لبرنامج biteSMS.";
+"biteSMS" = "biteSMS";
+"Notification Center" = "مركز الإشعارات";
+"These settings are applicable to Notification Center (iOS greater than 5.0) in iDevice." = "هذه الإعدادات تطبق فقط على مركز الإشعارات (نظام التشغيل 5.0 أو أعلى) في الآيفون.";
+"Missed Calls" = "المكالمات التي لم يرد عليها";
+"Messages" = "الرسائل";
+"Twitter" = "Twitter";
+
+/******************************
+ IPAD & IPOD RELATED STRINGS.
+ *******************************/
+"Facetime Settings" = "إعدادات Facetime";

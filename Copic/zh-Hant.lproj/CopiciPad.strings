@@ -1,0 +1,33 @@
+/* 
+ Copic.strings
+ 
+ Created by IArrays on 14/08/11.
+ Copyright 2012 IARRAYS. All rights reserved.
+ */
+"Copic" = "Copic"; 
+"Enable Copic" = "啟用Copic";
+"Global Settings" = "通用設定";
+"Recents Image" = "最近的頭像";
+"Favorites Image" = "我的最愛頭像";
+"Addressbook Image" = "聯絡資訊頭像";
+"Mail Settings" = "郵件設定";
+"These mail settings are applicable to Mail application in iDevice." = "郵件設定適用於iDevice上的“Mail”軟件。";
+"Message Settings" = "訊息設定";
+"These message settings are applicable to SMS application in iDevice." = "訊息設定適用於iDevice上的訊息應用程式。";
+"Contact Image" = "聯絡資訊頭像";
+"Conversation Images" = "對話頭像";
+"Default Avatar" = "預設的個人頭像";
+"My Avatar" = "我的個人頭像";
+"Restore Avatars" = "還原個人頭像";
+"Restore Avatar" = "還原個人頭像";
+"This enables Copic for biteSMS and all the above Message Settings are applied to biteSMS." = "此功能將啟用Copic for biteSMS並將上面的信息設定應用於biteSMS。";
+"biteSMS" = "biteSMS";
+"Notification Center" = "通知中心";
+"These settings are applicable to Notification Center (iOS greater than 5.0) in iDevice." = "這些設定適用於iDevice上的通知中心（支援iOS 5.0以上版本）。";
+"Missed Calls" = "未接來電";
+"Messages" = "訊息";
+"Twitter" = "Twitter";
+/******************************
+ IPAD & IPOD RELATED STRINGS.
+ *******************************/
+"Facetime Settings" = "Facetime設定";

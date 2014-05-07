@@ -1,0 +1,25 @@
+"Addressbook Image" = "Adressboks Bild";
+"Contact Image" = "Kontakt Bild";
+"Conversation Images" = "Konversation Bild";
+"Copic" = "Copic";
+"Enable Copic" = "Aktivera Copic";
+"Facetime Settings" = "Facetime Inställningar";
+"Favorites Image" = "Favoriter Bild";
+"Global Settings" = "Globala Inställningar";
+"Message Settings" = "Meddelande Inställningar";
+"Default Avatar" = "Standard Avatar";
+"My Avatar" = "Min Avatar";
+"Restore Avatars" = "Återställ Avatarer";
+"Restore Avatar" = "Återställ Avatar";
+"Recents Image" = "Senaste Bild";
+"These message settings are applicable to SMS application in iDevice." = "Dessa meddelande inställningar är applicerbara för SMS appen i iDevice.";
+
+"This enables Copic for biteSMS and all the above Messages Settings are applied to biteSMS." = "Detta aktiverar Copic för biteSMS och alla meddelande inställningar ovan är applicerbara till biteSMS.";
+"biteSMS" = "biteSMS";
+"Notification Center" = "Notification Center";
+"These settings are applicable to Notification Center (iOS greater than 5.0) in iDevice." = "Dessa inställningar fungerar i Notification Center (iOS större än 5.0) på iDevicen.";
+"Missed Calls" = "Missade Samtal";
+"Messages" = "Meddelanden";
+"Twitter" = "Twitter";
+"Mail Settings" = "Inställningar E-Mail";
+"These mail settings are applicable to Mail application in iDevice." = "Dessa postinställningarna är tillämpliga på programmet Mail i iDevice.";

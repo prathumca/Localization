@@ -1,0 +1,34 @@
+/* 
+ Copic.strings
+ 
+ Created by IArrays on 14/08/11.
+ Copyright 2012 IARRAYS. All rights reserved.
+ */
+"Copic" = "Copic"; 
+"Enable Copic" = "Включить Copic";
+"Global Settings" = "Общие настройки";
+"Recents Image" = "Изображения в последних вызовах";
+"Favorites Image" = "Изображения Избранное";
+"Addressbook Image" = "Изображения в адресной книге";
+"Mail Settings" = "Настройки почты";
+"These mail settings are applicable to Mail application in iDevice." = "Эти установки применяются к системному приложению 'Почта' на I-устройствах.";
+"Contact Image" = "Изображение контакта";
+"Message Settings" = "Настройка сообщений (СМС)";
+"These message settings are applicable to SMS application in iDevice." = "Эти настройки применяются к стандартному СМС приложению Айфона.";
+"Contact Image" = "Изображение контакта";
+"Conversation Images" = "Изобдражения в диалогах";
+"Default Avatar" = "Аватар по умолчанию";
+"My Avatar" = "Мой аватар";
+"Restore Avatars" = "Восстановить аватары";
+"Restore Avatar" = "Восстановить аватары";
+"This enables Copic for biteSMS and all the above Message Settings are applied to biteSMS." = "Это подключает Copic для biteSMS и все вышеприведенные Настройки Сообщений относятся к biteSMS.";
+"biteSMS" = "biteSMS";
+"Notification Center" = "Центр Извещений";
+"These settings are applicable to Notification Center (iOS greater than 5.0) in iDevice." = "Эти настройки относятся к Центру Извещений (версия iOS от 5.0) на Айфоне.";
+"Missed Calls" = "Пропущенные звонки";
+"Messages" = "Сообщения";
+"Twitter" = "Твиттер";
+/******************************
+ IPAD & IPOD RELATED STRINGS.
+ *******************************/
+"Facetime Settings" = "Установки Facetime";

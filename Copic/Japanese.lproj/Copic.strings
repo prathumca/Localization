@@ -1,0 +1,30 @@
+/* 
+ Copic.strings
+ 
+ Created by IArrays on 14/08/11.
+ Copyright 2012 IARRAYS. All rights reserved.
+ */
+"Copic" = "Copic"; 
+"Enable Copic" = "Copicを使う";
+"Global Settings" = "全体の設定";
+"Recents Image" = "代替の画像";
+"Favorites Image" = "よく使う項目内の画像";
+"Addressbook Image" = "住所録内の画像";
+"Mail Settings" = "メール設定";
+"These mail settings are applicable to Mail application in iDevice." = "上記の設定はiDeviceのメールに適用されます。";
+"Contact Image" = "連絡先の画像";
+"Message Settings" = "メッセージの設定";
+"These message settings are applicable to SMS application in iDevice." = "上記の設定はiDeviceのメッセージに適用されます。";
+"Contact Image" = "連絡先の画像";
+"Conversation Images" = "会話内の画像";
+"Default Avatar" = "相手のアバター";
+"My Avatar" = "自分のアバター";
+"Restore Avatars" = "アバターの初期化";
+"Restore Avatar" = "アバターの初期化";
+"This enables Copic for biteSMS and all the above Message Settings are applied to biteSMS." = "biteSMSでの有効化により、上記のメッセージの設定がbiteSMSに適用されます。";
+"biteSMS" = "biteSMS";
+"Notification Center" = "通知センターの設定";
+"These settings are applicable to Notification Center (iOS greater than 5.0) in iDevice." = "上記の設定はiDeviceの通知センターに適用されます。";
+"Missed Calls" = "不在着信";
+"Messages" = "メッセージ";
+"Twitter" = "Twitter";

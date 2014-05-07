@@ -1,0 +1,33 @@
+/* 
+ Copic.strings
+ 
+ Created by IArrays on 14/08/11.
+ Copyright 2012 IARRAYS. All rights reserved.
+ */
+"Copic" = "Copic"; 
+"Enable Copic" = "Activeaza Copic";
+"Global Settings" = "Setari globale";
+"Recents Image" = "Imagine recenta";
+"Favorites Image" = "Imagine favorita";
+"Addressbook Image" = "Imagine din agenda telefonica";
+"Mail Settings" = "Setari e-mail";
+"These mail settings are applicable to Mail application in iDevice." = "Aceste setari ale e-mail-ului se aplica in aplicatia E-mail de pe dispositivul dumneavoastra.";
+"Message Settings" = "Setari Mesaje";
+"These message settings are applicable to SMS application in iDevice." = "Aceste setari ale mesajelor sunt pentru aplicatia SMS in iDevice.";
+"Contact Image" = "imagine Contacte";
+"Conversation Images" = "Imagine conversatie";
+"Default Avatar" = "Avatar Implicit";
+"My Avatar" = "Avatarul meu";
+"Restore Avatars" = "Restabileste Avataruri";
+"Restore Avatar" = "Restabilire Avatar";
+"This enables Copic for biteSMS and all the above Message Settings are applied to biteSMS." = "Aceasta optiune activeaza Copic pentru biteSMS si toate setarile de mai sus se aplica la biteSMS.";
+"biteSMS" = "biteSMS";
+"Notification Center" = "Centru Notificari";
+"These settings are applicable to Notification Center (iOS greater than 5.0) in iDevice." = "Aceste setari se aplica la Centrul de Notificari (cerinte: iOS > 5.0) la iDevice.";
+"Missed Calls" = "Apeluri pierdute";
+"Messages" = "Mesaje";
+"Twitter" = "Twitter";
+/******************************
+ IPAD & IPOD RELATED STRINGS.
+ *******************************/
+"Facetime Settings" = "Setari pentru Facetime";

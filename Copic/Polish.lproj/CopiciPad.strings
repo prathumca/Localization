@@ -1,0 +1,32 @@
+/* 
+ Copic.strings
+ 
+ Created by IArrays on 14/08/11.
+ Copyright 2012 IARRAYS. All rights reserved.
+ */
+"Addressbook Image" = "Zdjęcie w Kontaktach";
+"Contact Image" = "Zdjęcie Kontaktu";
+"Conversation Images" = "Zdjęcie w Konwersacji";
+"Copic" = "Copic";
+"Enable Copic" = "Włącz Copic";
+"Favorites Image" = "Zdjęcie w Ulubionych";
+"Global Settings" = "Ustawienia globalne";
+"Message Settings" = "Ustawienia Wiadomości";
+"Miscellaneous" = "Różne";
+"Default Avatar" = "Domyślny awatar";
+"My Avatar" = "Mój awatar";
+"Restore Avatars" = "Odtwórz awatary";
+"Restore Avatar" = "Odtwórz awatar";
+"Recents Image" = "Zdjęcia w Ostatnich";
+"These message settings are applicable to SMS application in iDevice." = "Ustawienia te zostaną zastosowane w aplikacji Wiadomości w iDevice.";
+"This enables Copic for biteSMS and all the above Message Settings are applied to biteSMS." = "Ta opcja umożliwia użycie Copic w biteSMS i wszystkie ustawienia dla Wiadomości zostaną zastosowane w biteSMS.";
+"biteSMS" = "biteSMS";
+"Notification Center" = "Centrum powiadomień";
+"These settings are applicable to Notification Center (iOS greater than 5.0) in iDevice." = "Ustawienia te zostaną zastosowane w Centrum powiadomień (iOS 5.0 lub wyższy) w iDevice.";
+"Missed Calls" = "Nieodebrane";
+"Messages" = "Wiadomości";
+"Twitter" = "Twitter";
+"Mail Settings" = "Ustawienia poczty";
+"These mail settings are applicable to Mail application in iDevice." = "Te ustawienia poczty są stosowane do aplikacji Mail w iDevice.";
+
+"Facetime Settings" = "Ustawienia FaceTime";
