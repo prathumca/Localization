@@ -1,0 +1,349 @@
+/* 
+  Localizable.strings
+  CallLogPro
+
+  Created by Prathap Dodla on 1/17/14.
+  Copyright (c) 2014 IArrays. All rights reserved.
+*/
+
+"Title" = "CallLogPro";
+"Description" = "CallLogPro";
+
+"ABOUT_TITLE" = "About CallLogPro";
+
+"CallLbl" = "Call";
+"TextLbl" = "Text Message";
+"NewContactLbl" = "Create New Contact";
+"AddExstCnctLbl" = "Add to Existing Contact";
+"ShareLbl" = "Share Contact";
+
+"DefaultTitle" = "Default";
+"BlackOpaqueTitle" = "Black-Op";
+"BlackTranslucentTitle" = "Black-Trans";
+"RedTitleTitle" = "Red";
+"Edit" = "Edit";
+"Done" = "Done";
+
+"ALL" = "All";
+"DLD" = "Dialed";
+"RCD" = "Received";
+"MSD" = "Missed";
+"CANCELLED" = "Canceled";
+"MISSED1" = "missed";
+
+//newly added
+"AUDIO" = "Audio";
+//End
+
+"ALL_D" = "All: %d";
+"DLD_D" = "Dialed: %d";
+"RCD_D" = "Received: %d";
+"MSD_D" = "Missed: %d";
+
+"Information" = "Information";
+"Warning" = "Warning";
+"Error" = "Error";
+"INFO" = "Info";
+"LAST_CALL" = "Last Call: ";
+
+"Buy Now" = "Buy Now";
+"Activate" = "Activate";
+"ACTIVATING" = "Activating";
+"UPDATING" = "Updating";
+"RESTORING" = "Restoring";
+"CONTINUE" = "Continue";
+"AUTO_CLEAN_UP" = "Auto Cleaning";
+"Quit" = "Quit";
+"Close" = "Close";
+"Cancel" = "Cancel";
+"OK" = "OK";
+"Exit" = "Exit";
+
+"PW" = "Please wait...";
+"BACKING_UP" = "Backing up...";
+"Refreshing" = "Refreshing";
+"Deleting" = "Deleting";
+"LOADING" = "Loading";
+"BACK" = "Back";
+"I Agree" = "I Agree";
+"Trial" = "Trial";
+"WORKS_MSG" = "works from 3.0";
+"TRIAL_LMT_MSG" = "This trial version has some limitations to note,\n1. This is ads supported.\n2. This does not allow to delete any call records until you have credits.\n3. Clicking on ads gives you credits (1 click = 1 credit). To delete one call record you need atleast one credit.\nNote: If you wish to have no ads, no limitations and no restrictions you can buy the full version of CallLogPro.\nBy clicking on 'I Agree' button you'll agree all the above conditions.";
+
+"SettingsTitle" = "Settings";
+"SettingsExplain" = "Settings";
+
+"DeleteCallsMsg" = "Are you sure want to delete all calls?";
+"DEL_ALL_SEARCHED" = "Delete All Searched";
+"DEL_ALL_DLD" = "Delete All Dialed";
+"DEL_ALL_RCD" = "Delete All Received";
+"DEL_ALL_MSD" = "Delete All Missed";
+"DEL_ALL" = "Delete All";
+
+"INC_CALL" = "Incoming Call";
+"OUT_CALL" = "Outgoing Call";
+"INC_CALLS" = "Incoming Calls";
+"OUT_CALLS" = "Outgoing Calls";
+
+//newly added
+"INCOMING" = "Incoming";
+"OUTGOING" = "Outgoing";
+//End
+
+"PHONE" = "phone";
+"EMAIL" = "email";
+"URL" = "url";
+"ADDRESS" = "address";
+"BDAY" = "birthday";
+"DATE" = "date";
+"IM" = "IM";
+"NOTE" = "note";
+"HISTORY" = "History";
+
+"CALL" = "Call";
+"FACE_TIME" = "FaceTime";
+"TEXT_MESSAGE" = "Text Message";
+"CREATE_NEW_CONTACT" = "Create New Contact";
+"ADD_EXISTING_CONTACT" = "Add to Existing Contact";
+"SHARE_CONTACT" = "Share Contact";
+"OPEN_CONTACT" = "Open Contact";
+"CONTACT" = "Contact";
+"UNKNOWN" = "Unknown";
+"UNKNOWN_SMALL" = "unknown";
+"FACETIME" = "FaceTime";
+
+"CONGRATULATIONS" = "Congratulations";
+
+"DAYS" = "Days";
+"DAYS_D" = "Days: %d";
+"DAYS_D_D" = "Days: %d, Duration: %@";
+"CALLS" = "Calls";
+"CALLS_D" = "Total: %d";
+"CALLS_D_D" = "Total: %d, Duration: %@";
+
+"TIME" = "time";
+"TIMES" = "times";
+"REPEAT" = "Continuously";
+"NONE" = "None";
+
+"ALL_SHOWING_D" = "All, Showing: %d";
+"DLD_SHOWING_D" = "Dialed, Showing: %d";
+"RCD_SHOWING_D" = "Received, Showing: %d";
+"MSD_SHOWING_D" = "Missed, Showing: %d";
+
+"DLD_DEL_ALL_CONFIRM_MSG" = "Are you sure want to delete all dialed calls?";
+"RCD_DEL_ALL_CONFIRM_MSG" = "Are you sure want to delete all received calls?";
+"MSD_DEL_ALL_CONFIRM_MSG" = "Are you sure want to delete all missed calls?";
+"ALL_DEL_ALL_CONFIRM_MSG" = "Are you sure want to delete all calls?";
+
+//newly added
+"DLD_DEL_ALL_DATE_CONFIRM_MSG" = "Are you sure want to delete all dialed calls for date '%@'?";
+"RCD_DEL_ALL_DATE_CONFIRM_MSG" = "Are you sure want to delete all received calls for date '%@'?";
+"MSD_DEL_ALL_DATE_CONFIRM_MSG" = "Are you sure want to delete all missed calls for date '%@'?";
+"ALL_DEL_ALL_DATE_CONFIRM_MSG" = "Are you sure want to delete all calls for date '%@'?";
+
+"DLD_DEL_ALL_CONTACT_CONFIRM_MSG" = "Are you sure want to delete all dialed calls of '%@'?";
+"RCD_DEL_ALL_CONTACT_CONFIRM_MSG" = "Are you sure want to delete all received calls of '%@'?";
+"MSD_DEL_ALL_CONTACT_CONFIRM_MSG" = "Are you sure want to delete all missed calls of '%@'?";
+"ALL_DEL_ALL_CONTACT_CONFIRM_MSG" = "Are you sure want to delete all calls of '%@'?";
+
+"LOAD_MORE_REC" = "Load more records...";
+"LOAD_MORE_SRCH_REC" = "Load more search records...";
+
+"AboutInfo" = "CallLogPro allows to manage and clear calls from call history.";
+"CopyrightInfo" = "Copyright %d IArrays.\nAll rights reserved.";
+"HomepageInfo" = "http://www.iarrays.com.\nContact: contact@iarrays.com";
+
+"UNKNOWN_ERROR" = "An unknown error was detected. Please e-mail the crash log to us (support@iarrays.com).\n\nPlease install 'CrashReporter' from Cydia and follow on screen instructions to send crash logs.\n\nYou can continue to use CallLogPro, but the application is unstable.\n\nDebug details follow:\n%@\n%@";
+"FIRST_INFO_MSG" = "Dear Customer,\n if you already bought ILogManager Basic, please activate CallLogPro immediately. While activating provide your E-Mail (paypal) ID, which is used to buy ILogManager Basic.";
+"CREDIT_MSG" = "You don't have sufficient credits to delete. Clicking on ads gives you enough credits to proceed.";
+"TrialAlertMsg" = "This is a trial version with very limited functionality.\nYou have %d days until the trial period expires.\nPlease select an option to continue.";
+"TrailLmtMsg" = "This feature is not available in trial version.\nPlease select an option to continue.";
+"BuyOrRegMsg" = "Please visit 'iarrays' online store to buy CallLogPro.";
+"TrailPeriodOverMsg" = "The trial period of this product has expired. Please buy a copy of CallLogPro.";
+"NotImpMsg" = "This feature is not supported on current version.";
+"PiratedMsg" = "You're runnning a pirated copy of CallLogPro and have used it beyond the trial period.\n\nPurchasing a legal copy helps us to support independent software development and lifetime free support from us.";
+"IOS_4X_LIMIT_MSG" = "This feature works with iOS greater than 4.0 devices only.";
+"SyncWithiTunesErrMsg" = "This feature is available only on devices that are running iOS >= 4.x.";
+"ACTIVATE_ERROR" = "No License found.\nIf you already brought CallLogPro, please contact IArrays at http://support.iarrays.com.";
+"INVALID_LCENSE_KEY" = "Invalid key.";
+"BAD_EXEC_SIGNAL" = "Signal %d was raised.";
+"SEARCH_CALL_HISTORY" = "Search call history";
+"UNABLE_DELETE" =  "Unable to delete. Please report the problem to 'support@iarrays.com'";
+"UNABLE_DELETE_ALL" = "Unable to clean up the old calls from Database. Please report the problem to 'support@iarrays.com'.";
+"CRACK_DETECTED_TITLE" = "Crack Detected";
+"UNABLE_PREPARE_IMAGE_CACHE" = "Unable to prepare image cache. Please report the problem to 'support@iarrays.com'";
+"BLOCKED" = "Blocked";
+"UNKNOWN_ITUNES_SYNC" = "Unable to update settings with 'Sync With iTunes' option, Please report the problem to 'support@iarrays.com'";
+
+"UNABLE_TO_REG" = "Unable to register. Please connect your iPhone to internet and try again.";
+"UNABLE_TO_REG1" = "Unable to register. Please try after sometime.";
+"ENTER_DETAILS" = "Please enter your details.";
+"PROVIDE_EMAIL_ID" = "Provide Email ID to receive activation key.";
+"INVALID_EMAIL" = "Invalid E-Mail ID.";
+"EMAIL_MISSMATCH" = "E-Mail ID mismatch.";
+
+"EMAIL_ID" = "E-Mail ID";
+"ACTIVATION_KEY" = "Activation Key";
+
+"ENTER_EMAIL_ID" = "Enter your E-Mail ID";
+"REENTER_EMAIL_ID" = "Re-enter your E-Mail ID";
+"IARRAYS_COPYRIGHT_MSG" = "IArrays%@, %d. All rights reserved.";
+"ACTIVATION_SUCCESS" = "This copy of CallLogPro is successfully activated. Enjoy all the benifits of the full version.\nFor more information please visit 'http://iarrays.com'";
+"TRIAL_LABEL" = "This copy of CallLogPro is not a registered version. Please select any one of the below options to regiter it.";
+"VCARD_FILTER_TITLE" = "VCard Data Filter";
+"VCARD_MSG_TITLE" = "Select the data that you want to include in the vCard file.";
+
+"BACK_UP_AT" = "Backup at";
+"RESTORE_MGR_TITLE" = "Restore Manager";
+"RESTORE_DB_TITLE" = "Restore Database";
+"RESTORE_DB_WARNING" = "Restoring a database backup will erase current call history.";
+"RESTORE_DB_ERROR" = "Unable to restore database, '%@'. Please report the problem to 'support@iarrays.com'";
+"RESTORE_DB_INFO" = "To restore a call database, select it and click on the 'Restore button' on top right corner.\nNote: Restoring old database will delete the current call database.";
+"BACKUP_DB_ERROR_MSG1" = "Unable to create directory at '%@'. Error:'%@'. Please report the problem to 'support@iarrays.com'";
+"BACKUP_DB_ERROR_MSG2" = "Unable to backup current database, '%@'. Please report the problem to 'support@iarrays.com'";
+"BACKUP_DB_DEL_ERROR_MSG" = "Unable to delete database at '%@'. Error:'%@'. Please report the problem to 'support@iarrays.com'";
+
+"CALL_SETTINGS" = "General";
+"ALERT_SETTINGS" = "Alerts";
+"DB_SETTINGS" = "Data Management";
+"OTHER_SETTINGS" = "Other";
+"SYSTEM_SETTINGS" = "System";
+"LOG_SETTINGS" = "Enable Logs";
+
+//DYLIB NOT FOUND
+"DYLIB_NOT_FOUND" = "CallLogPro is not installed properly. Please reinstall it again.";
+
+//ALLOW_AB_ACCESS
+"ALLOW_AB_ACCESS" = "Please allow CallLogPro to access your contacts in privacy settings.";
+
+//credtis info
+"CREDITS" = "Credits";
+"CREDITS_INFO" = "We would like to thank the following people\n\nOliver Schultze <oschultze@versanet.de> - German translation.\nPaolo Cerza <paolo.cerza@accenture.com> - Italian translation.\nKatsumi Ito <ito.katsumi@gmail.com> - Japanese translation.\n\nSaurik <saurik@saurik.com> - Cydia\nOptimo <optimo@thebigboss.com> - Bigboss Repo\nBigboss <bigboss@thebiboss.org> - Bigboss Repo.\n\n\tIArrays Dev Team\n\nChaithu <dkcchaitanya@gmail.com> - Core Designer\nPrathap <d.prathap@gmail.com> - Core Developer\nTeja <teja.jvk@gmail.com> - Marketing & Sales\nSupport - http://support.iarrays.com\nFeedback - feedback@iarrays.com";
+
+//General Setings..
+//Group Settings..
+"Group Settings" = "Group Settings";
+"Group By Date" = "Group By Date";
+"Group By Contact" = "Group By Contact";
+
+//Other Settings
+"Other Settings" = "Other Settings";
+"Call On Tap" = "Call On Tap";
+"Enable Search" = "Enable Search";
+"Recent Delete" = "Recent Delete";
+"Enabling this option adds 'Delete' call functionality to 'Recents Screen' of the iPhone's Mobile Phone application." = "Enabling this option adds 'Delete' call functionality to 'Recents Screen' of the iPhone's Mobile Phone application.";
+"Multi Call Delete" = "Multi Call Delete";
+"Enabling this option allows to delete selected call records while deleting grouped calls from iPhone's Mobile Phone application." = "Enabling this option allows to delete selected call records while deleting grouped calls from iPhone's Mobile Phone application.";
+"Replace Recents" = "Replace Recents";
+"Enabling this option replaces the standard iPhone's 'Recents' screen with CallLogPro's recents screen." = "Enabling this option replaces the standard iPhone's 'Recents' screen with CallLogPro's recents screen.";
+
+//Show Settings
+"Show Settings" = "Show Settings";
+"Contact Image" = "Contact Image";
+"Show Number" = "Show Number";
+"Show Recents" = "Show Recents";
+"Show Titles" = "Show Titles";
+"Show Total Count" = "Show Total Count";
+
+//Notifications Settings..
+//Call Alerts
+"Call Alerts" = "Call Alerts";
+"Alerts" = "Alerts";
+//Alert Settings
+"Alert Settings" = "Alert Settings";
+"Alert Tone" = "Alert Tone";
+"Tri-tone" = "Tri-tone";
+"Chime" = "Chime";
+"Glass" = "Glass";
+"Horn" = "Horn";
+"Bell" = "Bell";
+"Electronic" = "Electronic";
+"New Mail" = "New Mail";
+"Mail Sent" = "Mail Sent";
+"Beep" = "Beep";
+"Alarm" = "Alarm";
+"Unlock" = "Unlock";
+"Low Power" = "Low Power";
+"Photo Shutter" = "Photo Shutter";
+"Shake" = "Shake";
+"Tic Toc" = "Tic Toc";
+
+"Vibrate" = "Vibrate";
+"Repeat Mode" = "Repeat Mode";
+"Alert Period" = "Alert Period";
+"Regular alerts is on for missed calls after the above specified period time." = "Regular alerts is on for missed calls after the above specified period time.";
+
+//Alert Scheduler
+"Alert Scheduler" = "Alert Scheduler";
+"All-Day" = "All-Day";
+"Start Time" = "Start Time";
+"End Time" = "End Time";
+"Alerts are active within the specified time only." = "Alerts are active within the specified time only.";
+
+//Data Management Settings
+"Backup Current Database" = "Backup Current Database";
+"Restore Old Database" = "Restore Old Database";
+"Use this option to restore a old call database. Restoring such old databases will erase the current database." = "Use this option to restore a old call database. Restoring such old databases will erase the current database.";
+"Auto Clean" = "Auto Clean";
+"'Auto Clean' allows to define the automatic calls deletion policy older than selected criteria." = "'Auto Clean' allows to define the automatic calls deletion policy older than selected criteria.";
+"Calls Clean Up" = "Calls Clean Up";
+"Older than One Day" = "Older than One Day";
+"Older than One Week" = "Older than One Week";
+"Older than Two Weeks" = "Older than Two Weeks";
+"Older than One Month" = "Older than One Month";
+"Older than Three Months" = "Older than Three Months";
+"Older than Six Months" = "Older than Six Months";
+
+"GENERATE" = "Generate";
+"GENERATING" = "Generating";
+
+"Reports" = "Reports";
+"Date" = "Date";
+"Name" = "Name";
+"Number" = "Number";
+"Desc" = "Desc";
+"Asc" = "Asc";
+"NA" = "NA";
+"REPORT_INFO1" = "This report was generated by using CallLogPro - an innovative call manager for your iPhone.";
+"REPORT_INFO2" = "For more information, please visit at ";
+"IARRAYS_URL" = "http://iarrays.com.";
+"Report Criteria" = "Report Criteria";
+"START_DATE_S" = "Start Date: %@";
+"END_DATE_S" = "End Date: %@";
+"SORT_BY_S_S" = "Sort By: %@, %@";
+"CALL_FILTER_S" = "Call Filter: %@";
+"SORT_BY" = "Sort By";
+"CALL_FILTER" = "Call Filter";
+"START_DATE" = "Start Date";
+"END_DATE" = "End Date";
+"START" = "Start";
+"END" = "End";
+"FILE_FORMAT" = "File Format";
+
+"DELETE" = "Delete";
+"Email" = "Email";
+"Preview" = "Preview";
+"Print" = "Print";
+
+"NO" = "No.";
+"NAME_OR_NUM" = "Name/Number";
+"DUR_MIN" = "Duration (Min.)";
+"NO_REC_FOUND" = "No records found.";
+"DATE_ERROR_MSG" = "Start date cannot be greater than end date.";
+"REPORTS_DEL_ERROR_MSG" = "Unable to delete report file at '%@'. Error:'%@'. Please report the problem to 'support@iarrays.com'";
+"REPORT_GEN_MSG_S" = "This report was generated on %@";
+"REPORTS_DIR_INFO_S" = "These reports can be found under %@ directory on your iPhone.";
+"REPORT_GEN_ERROR" = "PDF format is supported on later versions of iOS 4.0.";
+
+//Other Settings..
+"Sync With iTunes" = "Sync With iTunes";
+"'Sync With iTunes' keeps track of all CallLogPro's call history (backups also) with iTunes." = "'Sync With iTunes' keeps track of all CallLogPro's call history (backups also) with iTunes.";
+"Newsletter" = "Newsletter";
+"Enable up to date with IArrays news, software updates, and the latest information on products and services." = "Enable up to date with IArrays news, software updates, and the latest information on products and services.";
+"Enable Logs" = "Enable Logs";
+"'Enable Logs' allows to save all logs in a file (CallLogPro.log). This file can be found under 'tmp/' folder. If you're facing any problems with CallLogPro, please send the log file to support@iarrays.com." = "'Enable Logs' allows to save all logs in a file (CallLogPro.log). This file can be found under 'tmp/' folder. If you're facing any problems with CallLogPro, please send the log file to support@iarrays.com.";
+"Share Log File" = "Share Log File";
+"The above option allows to share 'CallLogPro.log' with IArrays Support Team. This log file can be found under /tmp directory from the root directory." =  "The above option allows to share 'CallLogPro.log' with IArrays Support Team. This log file can be found under /tmp directory from the root directory.";
+"WHATS_NEW" = "CallLogPro now supports:\n\n*1. Replace Recents - a powerful mechanism that allows to replace recents screen in standard phone application.\n\n*2. Reports - an incredible feature that supports generation of reports for calls history. Currently this supports PDF format only.\n\n* Requires iOS 4.0 or higher.";
+"BUILD" = "Build";

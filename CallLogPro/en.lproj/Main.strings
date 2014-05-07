@@ -1,0 +1,60 @@
+
+/* Class = "IBUIViewController"; title = "Detail"; ObjectID = "Ah7-4n-0Wa"; */
+"Ah7-4n-0Wa.title" = "Detail";
+
+/* Class = "IBUINavigationItem"; title = "Settings"; ObjectID = "KPy-Rp-ZUh"; */
+"KPy-Rp-ZUh.title" = "Settings";
+
+/* Class = "IBUILabel"; text = "Detail view content goes here"; ObjectID = "Lei-5M-9Gs"; */
+"Lei-5M-9Gs.text" = "Detail view content goes here";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "Omo-mT-xHe"; */
+"Omo-mT-xHe.text" = "Title";
+
+/* Class = "IBUIBarButtonItem"; title = "Item"; ObjectID = "ZBz-4x-atc"; */
+"ZBz-4x-atc.title" = "Item";
+
+/* Class = "IBUISegmentedControl"; ZpI-ws-fOc.segmentTitles[0] = "A"; ObjectID = "ZpI-ws-fOc"; */
+"ZpI-ws-fOc.segmentTitles[0]" = "A";
+
+/* Class = "IBUISegmentedControl"; ZpI-ws-fOc.segmentTitles[1] = "D"; ObjectID = "ZpI-ws-fOc"; */
+"ZpI-ws-fOc.segmentTitles[1]" = "D";
+
+/* Class = "IBUISegmentedControl"; ZpI-ws-fOc.segmentTitles[2] = "R"; ObjectID = "ZpI-ws-fOc"; */
+"ZpI-ws-fOc.segmentTitles[2]" = "R";
+
+/* Class = "IBUISegmentedControl"; ZpI-ws-fOc.segmentTitles[3] = "M"; ObjectID = "ZpI-ws-fOc"; */
+"ZpI-ws-fOc.segmentTitles[3]" = "M";
+
+/* Class = "IBUINavigationItem"; title = "Detail"; ObjectID = "cra-N8-TIN"; */
+"cra-N8-TIN.title" = "Detail";
+
+/* Class = "IBUIButton"; normalTitle = "Continue"; ObjectID = "lex-BS-LBf"; */
+"lex-BS-LBf.normalTitle" = "Continue";
+
+/* Class = "IBUITableViewController"; title = "Master"; ObjectID = "pGg-6v-bdr"; */
+"pGg-6v-bdr.title" = "Master";
+
+/* Class = "IBUIViewController"; title = "Splash Screen"; ObjectID = "qnD-A5-paw"; */
+"qnD-A5-paw.title" = "Splash Screen";
+
+/* Class = "IBUISearchBar"; placeholder = "Search call history"; ObjectID = "vB3-lc-qNK"; */
+"vB3-lc-qNK.placeholder" = "Search call history";
+
+/* Class = "IBUISearchBar"; vB3-lc-qNK.scopeButtonTitles[0] = "All"; ObjectID = "vB3-lc-qNK"; */
+"vB3-lc-qNK.scopeButtonTitles[0]" = "All";
+
+/* Class = "IBUISearchBar"; vB3-lc-qNK.scopeButtonTitles[1] = "Dialed"; ObjectID = "vB3-lc-qNK"; */
+"vB3-lc-qNK.scopeButtonTitles[1]" = "Dialed";
+
+/* Class = "IBUISearchBar"; vB3-lc-qNK.scopeButtonTitles[2] = "Recieved"; ObjectID = "vB3-lc-qNK"; */
+"vB3-lc-qNK.scopeButtonTitles[2]" = "Recieved";
+
+/* Class = "IBUISearchBar"; vB3-lc-qNK.scopeButtonTitles[3] = "Missed"; ObjectID = "vB3-lc-qNK"; */
+"vB3-lc-qNK.scopeButtonTitles[3]" = "Missed";
+
+/* Class = "IBUIViewController"; title = "Settings"; ObjectID = "vrU-ak-gL9"; */
+"vrU-ak-gL9.title" = "Settings";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "wFV-Fe-74p"; */
+"wFV-Fe-74p.text" = "Title";
